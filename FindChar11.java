@@ -13,5 +13,5 @@ public class FindChar11 {
 
         System.out.println(targetCnt);
     }
-    
+
 }
